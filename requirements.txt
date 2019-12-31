@@ -1,6 +1,9 @@
 lightgbm
 pandas
+pandas_profiling
 sklearn
 matplotlib
 seaborn
-tqdm
+category_encoders
+xgboost
+imblearn

@@ -29,4 +29,4 @@ Files description:
 
 The evaluation metric for this competition is Log Loss (the smaller the better).
 
-In this competition my best score was ??? and I got the position ??? on the [leaderboard](https://www.kaggle.com/c/competicao-dsa-machine-learning-dec-2019/leaderboard).
+In this competition my best score was 0.4929 and I got the position 38 on the [leaderboard](https://www.kaggle.com/c/competicao-dsa-machine-learning-dec-2019/leaderboard).
