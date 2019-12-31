@@ -2,7 +2,7 @@
 
 This project presents a code/kernel used in a Kaggle competition promoted by [Data Science Academy](https://www.datascienceacademy.com.br/) in **December of 2019**.
 
-The aim of this competition is to build a predictive model that can predict the probability that a particular claim will be approved immediately or not based on the resources available at the beginning of the process, helping the insurance company to accelerate the payment release process and thus provide better service to the client.
+The aim of this competition is to build a predictive model that can predict the probability that a particular claim will be approved immediately by or not insurance company based on the resources available at the beginning of the process, helping the insurance company to accelerate the payment release process and thus provide better service to the client.
 
 #### About the project: 
 Claims should be carefully evaluated by the insurer, which may take time. As a result, I need to build a predictive model that can predict the probability that a particular claim will be approved immediately or not based on historical and anonymous data.
@@ -11,7 +11,7 @@ Historical data is classified into two classes, 0 and 1.
 
 Class 0 indicates that the claim was not approved immediately (probably because it required further analysis). Class 1 indicates that the claim was approved immediately.
 
-My job is not to predict whether a new order should be approved immediately, but to predict the probability of immediate approval of each claim. This allows the insurer to prioritize orders over 80% likely to be approved immediately, for example.
+My goal is not to predict whether a new order should be approved immediately, but to predict the probability of immediate approval of each claim. This allows the insurer to prioritize orders over 80% likely to be approved immediately, for example.
 
 This is a binary classification problem, but instead of predicting classes, I am predicting probabilities.
 
