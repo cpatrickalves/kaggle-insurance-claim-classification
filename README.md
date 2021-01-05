@@ -22,7 +22,7 @@ Competition page: https://www.kaggle.com/c/competicao-dsa-machine-learning-dec-2
 Dataset are available in competition's pages.
 
 Files description:
-* **kernel.csv** - the Jupyter Notebook file with all project work flow (data cleaning, preparation, analysis, machine learning, etc.).
+* **kernel.ipynb** - the Jupyter Notebook file with all project work flow (data cleaning, preparation, analysis, machine learning, etc.).
 * **dataset_treino.csv** - contains the training dataset with 114,321 rows (claims) and 133 columns (features).
 * **dataset_teste.csv** - contains the test dataset with 114,393 rows and 132 columns.
 * **sample_submission.csv** - a sample of the submission file.
